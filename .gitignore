@@ -1,0 +1,30 @@
+##############################
+## Common
+##############################
+**/bin/
+**/build/
+**/out/
+**/tmp/
+**/doc/
+**/log
+**/logs
+**/target/
+**/debug/
+**/out.dSYM/
+
+*.log
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+out
+preprocessed_file.c
+lex.yy.c
+
+##############################
+## OS X
+##############################
+.DS_Store
